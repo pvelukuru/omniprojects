@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omniprojects.co.in/sitemap.xml
